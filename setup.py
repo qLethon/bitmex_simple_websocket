@@ -8,12 +8,12 @@ setup(
     name='bitmex_simple_ws',
     version='0.1',
     description='BitMEX simple websocket client',
-    url='https://github.com/whatever/whatever',
+    url='https://github.com/qLethon/bitmex_simple_ws',
     author='qLethon',
     author_email='qLethon@gmail.com',
     license='MIT',
     packages=[
-        "bitmex_ws",
+        "bitmex_simple_ws",
     ],
     install_requires=[
         'websocket-client==0.46.0',
