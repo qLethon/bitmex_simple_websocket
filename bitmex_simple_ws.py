@@ -66,6 +66,3 @@ class BitMEXWebSocket:
 
         signature = hmac.new(secret.encode('utf-8'), message, digestmod=hashlib.sha256).hexdigest()
         return signature
-
-
-
