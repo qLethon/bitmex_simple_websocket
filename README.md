@@ -8,6 +8,9 @@ This is simple library for receiving realtime data from the BitMEX API.
 
 ## Usage
 
+If client received data then on_message function is called.
+You can override on_message function to want to do when received data.
+
 To subscribe to unauthenticated data:
 ```
 from bitmex_simple_websocket import BitMEXWebSocket
@@ -21,9 +24,6 @@ class MyBitMEXWebsocket(BitMEXWebSocket):
 
 bitmex = MyBitMEXWebsocket(endpoint='wss://www.bitmex.com/realtime?subscribe=tradeBin1m:XBTUSD')
 ```
-
-If client received data then on_message function is called.
-You can override on_message function to want to do when received data.
 
 To subscribe to authenticated data:
 ```
