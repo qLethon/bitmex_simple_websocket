@@ -2,7 +2,7 @@ import websocket
 import json
 import time, urllib, hmac, hashlib
 
-class BitMEXWebsocket:
+class BitMEXWebSocket:
 
     def __init__(self, endpoint, api_key=None, api_secret=None):
 
