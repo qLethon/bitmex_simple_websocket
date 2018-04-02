@@ -1,6 +1,6 @@
 # bitmex_simple_websocket
 
-This is simple library for receiving realtime data from the BitMEX API.
+This is simple library for receiving realtime data from the [BitMEX WebSocket API](https://www.bitmex.com/app/wsAPI "Title").
 
 ## Installation
 
