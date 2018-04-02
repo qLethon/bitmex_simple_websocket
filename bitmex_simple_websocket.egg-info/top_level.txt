@@ -1,1 +1,1 @@
-bitmex_ws
+bitmex_simple_websocket
