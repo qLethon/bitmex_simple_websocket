@@ -9,7 +9,7 @@ This is simple library for receiving realtime data from the [BitMEX WebSocket AP
 ## Usage
 
 If client received data then on_message function is called.
-You can override on_message function to want to do when received data.
+You can override on_message function to do what you want when received data.
 
 To subscribe to unauthenticated data:
 ```
