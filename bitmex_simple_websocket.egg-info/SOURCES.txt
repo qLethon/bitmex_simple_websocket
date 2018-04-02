@@ -1,0 +1,8 @@
+README.md
+bitmex_simple_websocket.py
+setup.py
+bitmex_simple_websocket.egg-info/PKG-INFO
+bitmex_simple_websocket.egg-info/SOURCES.txt
+bitmex_simple_websocket.egg-info/dependency_links.txt
+bitmex_simple_websocket.egg-info/requires.txt
+bitmex_simple_websocket.egg-info/top_level.txt
