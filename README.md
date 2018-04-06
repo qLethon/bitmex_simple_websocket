@@ -2,6 +2,10 @@
 
 This is simple library for receiving realtime data from the [BitMEX WebSocket API](https://www.bitmex.com/app/wsAPI).
 
+## Requirements
+
+websocket-client
+
 ## Installation
 
 ```pip install bitmex-simple-websocket```
