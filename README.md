@@ -44,7 +44,3 @@ bitmex = MyBitMEXWebsocket(endpoint='wss://www.bitmex.com/realtime?subscribe=ord
 api_key=YOUR_API_KEY,
 api_secret=YOUR_API_SECRET)
 ```
-
-## Donate
-
-BTC(Segwit): bc1q57792ln850wc2538udg0fr6vdq5f2ajyf2tnyx
